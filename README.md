@@ -1,7 +1,7 @@
 ### Hi, I'm Seungho 👋 
 ### I am interested in Backend Development :)
 
-![Seungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricelesscode&show_icons=true&theme=radical)
+![Seungho's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricelesscode&show_icons=false&theme=radical)
 
 <!--
 **PricelessCode/PricelessCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
